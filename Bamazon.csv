@@ -1,0 +1,11 @@
+"ItemID";"ProductName";"DepartmentName";"Price";"StockQuantity"
+1;"iPhone 7";"Electronics";649.0;2
+2;"Football";"Sports";20.0;15
+3;"Nintendo 64";"Electronics";70.0;3
+4;"Ferrari";"Automotive";250000.0;0
+5;"T-Shirt";"Clothing";18.0;20
+6;"Air Jordans";"Clothing";200.0;7
+7;"Basketball";"Sports";30.0;15
+8;"TV";"Electronics";500.0;12
+9;"YETI Cooler";"Sports";350.0;9
+10;"Wireless Headphones";"Electronics";350.0;8
